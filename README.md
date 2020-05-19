@@ -6,3 +6,5 @@ pip install -r requirements.txt
 python animal.py
 ```
 模拟鼠标点击各个按钮，程序运行期间无法使用鼠标光标，按ESC键退出程序
+
+release中包含使用nuitka打包的win32可执行程序，解压打开animal.exe即可运行
